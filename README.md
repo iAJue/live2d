@@ -1,1 +1,1 @@
-# live2d
+# Live2d 看板娘
